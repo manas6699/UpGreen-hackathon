@@ -6,11 +6,9 @@ const products = () => {
 
     return (
         <div className="container">
-            <h1 style={
-                { textAlign: 'center', padding: '20px' }
-            }>Upgreen</h1>
-            <div class="card text-center">
-                <div class="card-header">
+            
+            <div class=" text-center">
+                <div class="card-header my-5">
                     Featured
                 </div>
             </div>

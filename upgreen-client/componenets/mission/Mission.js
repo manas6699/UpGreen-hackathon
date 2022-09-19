@@ -22,30 +22,18 @@ const mission = () => {
                         1. Create a platform for a like-minded community of individuals to provide a living example that environmental sustainability and low/zero plastic and e-waste can be achieved.
                         2. Earn while making the planet a better place!
                         3. Celebrate our accomplishments and have fun!
-                        4. Unde commodi provident quis veniam dignissimos itaque praesentium atque voluptas exercitationem quas excepturi, minus perferendis temporibus accusantium incidunt placeat nobis obcaecati nostrum sint. Suscipit, possimus veritatis amet sed eveniet porro.
+                        
 
                     </p>
 
                     <button type="button" class="btn btn-outline-success my-3">Know More</button>
 
 
-                    {/* <ul className={`${classes.point} my-3`}>
-                        <li>
-                            1st Point
-                        </li>
-                        <li>
-                            2nd Point
-                        </li>
-                        <li>
-                            3rd Point
-                        </li>
-                    </ul> */}
-
-                    <h1 className='my-3 about_our_product'>About Our Products</h1>
+                    <h1 className='my-5 about_our_product'>About Our Products</h1>
                     <p className={classes.test} >
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Id temporibus facere animi, voluptatibus ratione, quam aut, eum explicabo repellendus sint alias officiis repudianda Non cupiditate et quod fuga? Quasi ex qui ad commodi perspiciatis illum, hic reprehenderit unde consequatur tempore aut quibusdam, ab, fugiat pariatur? Laboriosam odio nulla cum quidem magni provident molestias!
                         Inventobus, sunt iure praesentium.
-
+                            lorem igiugo llendus sint alias officiis repudianda Non cupiditate et quod fuga? Quasi ex qui ad commodi perspiciatis illum, hic reprehenderit unde consequatur tempore aut quibusdam, ab, fugiat pariatur? Laboriosam odio nulla cum quidem magni provident molestias! Inventobus, sunt iure praesentium. lorem igiugo quos tenetur mollitia cupiditate. Eos suscipit nostrum, earum molestias cumque ea. Autem beatae natus debitis modi assumenda quaerat ipsum, laudantium vero aperiam fro consectetur nesciunt nisi sunt tempore saepe ut sed facere possimus necessitat sit dicta totam eum libero porro fuga corporis ipsum dolorum exercitationem animi iste praesentium illum. Quos mollitia harum expedita ducimus praesentium soluta, tempore at, totam magnam nisi esse quas! e suscipit molestiae tempora vero dolor optio! Sit dolo
                         quos tenetur mollitia cupiditate. Eos suscipit nostrum, earum molestias cumque ea. Autem beatae natus debitis modi assumenda quaerat ipsum, laudantium vero aperiam fro consectetur nesciunt nisi sunt tempore saepe ut sed facere possimus necessitat sit dicta totam eum libero porro fuga corporis ipsum dolorum exercitationem animi iste praesentium illum. Quos mollitia harum expedita ducimus praesentium soluta, tempore at, totam magnam nisi esse quas! e suscipit molestiae tempora vero dolor optio! Sit dolorum ea, beatae quasi exercitationem velit assumenda at repellat accusamus aliquid reprehenderit minima odio provident, architecto labore, quos tempore similique.
                     </p>
 

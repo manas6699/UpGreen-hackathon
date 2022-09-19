@@ -1,5 +1,5 @@
 import Image from 'next/image'
-import mypic from '../asset/myimage3.png'
+import mypic from '../asset/myimage5.png'
 import classes from './Bodypicture.module.css'
 const MyImage = () => {
     return (

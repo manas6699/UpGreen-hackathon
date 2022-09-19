@@ -4,10 +4,21 @@
 }
 
 .imageWrapper{
-    margin-top: 50px;
+    margin-top: 30px;
     display: flex;
     flex-direction: row;
 }
 .imageWrapper div{
     margin: 50px;
+}
+
+.btnWrapper{
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    bottom: 25px;
+
 }

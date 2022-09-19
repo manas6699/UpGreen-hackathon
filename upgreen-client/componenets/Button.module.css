@@ -1,21 +1,5 @@
 .button {
-    /* display: flex;
-    align-items: center;
-    align-content: center;
-    flex-direction: row;
-    flex-wrap: nowrap;
-    align-content: space-between;
-
-    position: absolute;
-    width: 230px;
-    height: 50px;
-    bottom: 300px;
-    border-color: transparent;
-    left: 45%;
-    color: black;
-    background: #E9FF62;
-    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-    border-radius: 13px; */
+    
     display: flex;
     align-items: center;
     align-content: center;
@@ -23,7 +7,7 @@
     flex-wrap: nowrap;
     align-content: space-between;
     position: absolute;
-    width: 230px;
+    width: 200px;
     height: 50px;
     bottom: 300px;
     border-color: transparent;
@@ -43,6 +27,8 @@
     color: rgb(190, 181, 181);
 }
 .button:hover{
+    border-color: transparent;
+    border-width: 0;
     transform: scale(1.08);
     box-shadow: 0px 8px 8px rgb(0 0 0 / 25%);
 }

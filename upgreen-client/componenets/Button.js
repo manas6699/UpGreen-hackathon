@@ -6,10 +6,11 @@ const Button = () => {
     return (
         <div>
             <button className={classes.button}>
-                Get Started
+                
                 <div>
-                    <GrNext/>
-                    <GrNext/>
+                Get Started
+                    <GrNext size={'1.2em'} style={{position: 'relative', left: '10px'}}/>
+                    <GrNext size={'1.2em'} style={{margin: '0'}}/>
                 </div>
             </button>
         </div>

@@ -1,5 +1,7 @@
 import {BsFacebook,BsInstagram,BsLinkedin} from 'react-icons/bs';
 
+import {SiDiscord} from 'react-icons/si';
+
 import classes from './Footer.module.css';
 
 const footer = () => {
@@ -26,8 +28,15 @@ const footer = () => {
                     <div className={classes.social}>
                         <BsLinkedin/>
                     </div>
+                    <div className={`${classes.social} mx-3`}>
+                        <SiDiscord/>
                     </div>
                     </div>
+                    </div>
+                    </div>
+
+                    <div className='mt-5'>
+                        <p className='text-center'>Made with ❤️ by Ishan, Manas, Subrata</p>
                     </div>
 
        
