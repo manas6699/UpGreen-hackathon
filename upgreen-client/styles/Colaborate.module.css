@@ -1,0 +1,13 @@
+.lineawrapper{
+   
+    padding: 100px 100px 0 100px;
+}
+
+.imageWrapper{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row;
+}
+.imageWrapper div{
+    margin: 50px;
+}

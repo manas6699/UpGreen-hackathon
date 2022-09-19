@@ -1,0 +1,15 @@
+.buttonStyle{
+
+    background: transparent;
+    border-width: 0;
+
+}
+
+
+.imgStyle{
+
+    width: 800px;
+    height: 550px;
+    object-fit: cover;
+
+}
